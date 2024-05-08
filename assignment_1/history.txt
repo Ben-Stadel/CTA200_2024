@@ -1,0 +1,77 @@
+    1  exit
+    2  /cita/local/bin/passwd
+    3  ls
+    4  cd home
+    5  ls
+    6  pwd
+    7  exit
+    8  pwd
+    9  .
+   10  cd ..
+   11  ls
+   12  pwd
+   13  cd bstadel
+   14  pwd
+   15  ls
+   16  exit
+   17  ls
+   18  cd Documents
+   19  ls
+   20  pwd
+   21  cd ..
+   22  ls
+   23  cd
+   24  pwd
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd cta200
+   29  ls
+   30  pwd
+   31  python
+   32  module avail
+   33  module load python
+   34  Hello_world_Stadel.py
+   35  python
+   36  cd
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd murray
+   41  ls
+   42  python
+   43  cd /mnt/scratch-lustre
+   44  ls
+   45  cd bstadel
+   46  ls
+   47  cd CTA200_2024
+   48  ls
+   49  cd assignment_1
+   50  ls
+   51  python
+   52  ./Hellow_world_Stadel.py
+   53  ./Hello_world.Stadel.py
+   54  ./Hello_world_Stadel.py
+   55  chmod -x Hello_world_Stadel.py
+   56  ./Hello_world_Stadel.py
+   57  python Hello_world_Stadel.py
+   58  vi Hello_world_Stadel.py
+   59  vi Hello_world_Stadel.x
+   60  vi Hello_world_Stadel.c
+   61  gcc -o Hello_world_Stadel.x Hello_world_Stadel.c
+   62  ls
+   63  ./ Hello_world_Stadel.x
+   64  ./Hello_world_Stadel.x
+   65  ./Hello_world_Stadel.x > output_c.x
+   66  ls
+   67  cat output_c.txt
+   68  ./Hello_world_Stadel.x > output_c.txt
+   69  ls
+   70  rm output_c.x
+   71  ls
+   72  cat output_c.txt
+   73  python Hello_world_Stadel.py > output_python.txt
+   74  ls
+   75  cat output_python.txt
+   76  history
+   77  history > history.txt
